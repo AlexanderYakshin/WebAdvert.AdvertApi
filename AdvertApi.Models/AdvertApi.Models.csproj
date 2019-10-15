@@ -2,6 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Alex Y.</Authors>
+    <Company>None</Company>
+    <Product>Web Advert Microservices</Product>
+    <PackageProjectUrl>https://github.com/AlexanderYakshin/WebAdvert.AdvertApi</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/AlexanderYakshin/WebAdvert.AdvertApi</RepositoryUrl>
+    <PackageId>AlexY.AdvertApi.Models</PackageId>
   </PropertyGroup>
 
 </Project>
